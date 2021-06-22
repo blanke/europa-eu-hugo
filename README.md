@@ -13,3 +13,5 @@ Just a few more steps and you're ready to go:
 
 Visit https://gohugo.io/ for quickstart guide and full documentation.
 ```
+
+### europa-eu-hugo
