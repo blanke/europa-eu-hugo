@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body class="home theme-astrid">
+        {{- partial "preload.html" . -}}
+        <div id="page" class="site">
+            <a class="skip-link screen-reader-text" href="index.html#content">Skip to content</a>
+            <header id="masthead" class="site-header has-header" role="banner">
+                {{- partial "header.html" . -}}
+            </header>
+            <div class="header-clone" style="height: 83px; background-color: rgba(32,37,41,0.9)"></div>
+            <div id="content" class="site-content">
+                <div class="container">
+                    <div id="primary" class="content-area">
+                        {{- block "main" . }}{{- end }}
+                    </div>
+                    <aside id="secondary" class="widget-area" role="complementary">
+                    </aside>
+    
+                </div>
+            </div>
+            {{- partial "footer.html" . -}}
+        </div>
+        <script type='text/javascript' src='/themes/athemes/astrid/5.7.2/js/main.js' id='astrid-main-js'></script>
+        <script type='text/javascript' src='/themes/athemes/astrid/5.7.2/js/scripts.min.js' id='astrid-scripts-js'></script>
+    </body>
+</html>

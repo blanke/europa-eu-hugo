@@ -1,0 +1,24 @@
+{"cols":[
+	{"id":"code","label":"code","type":"string"},
+	{"id":"label","label":"label","type":"string"}
+],"rows":[
+	{"c":[
+		{"v":"INIT_PLANNED"},
+		{"v":"In preparation"}
+	]},
+	{"c":[
+		{"v":"PLANNING_WORKFLOW"},
+		{"v":"Roadmap"}
+	]},
+	{"c":[
+		{"v":"OPC_LAUNCHED"},
+		{"v":"Public consultation"}
+	]},
+	{"c":[
+		{"v":"ISC_WORKFLOW"},
+		{"v":"Draft act"}
+	]},
+	{"c":[
+		{"v":"ADOPTION_WORKFLOW"},
+		{"v":"Commission adoption"}
+	]}]}

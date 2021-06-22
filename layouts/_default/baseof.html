@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body class="home theme-astrid">
+        {{- partial "preload.html" . -}}
+        <div id="page" class="site">
+            <a class="skip-link screen-reader-text" href="index.html#content">Skip to content</a>
+            <header id="masthead" class="site-header has-header" role="banner">
+                {{- partial "header.html" . -}}
+            </header>
+            <div class="header-clone" style="height: 83px; background-color: var(--first-color)"></div>
+            <div id="content">
+                {{- block "main" . }}{{- end }}
+            </div>
+            {{- partial "footer.html" . -}}
+        </div>
+        <script type='text/javascript' src='/themes/europa.eu/navigation.js' id='navigation-js'></script>
+        <script type='text/javascript' src='/themes/europa.eu/preloader.js' id='preloader-js'></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    </body>
+</html>

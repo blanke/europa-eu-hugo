@@ -1,0 +1,41 @@
+query Nav($_id: ID!) {
+    navigation(id: $_id) {
+      title
+      item {
+        __typename
+        ... on ComponentNavigationPage {
+          menuItem
+          page {
+            friendlyUrl
+          }
+        }
+        ... on ComponentNavigationDocument {
+          menuItem
+          media {
+            name
+          }
+        }
+        ... on ComponentNavigationSubNavigation {
+          menuItem
+          navigation {
+            title
+            item {
+              __typename
+              ... on ComponentNavigationPage {
+                menuItem
+                page {
+                  friendlyUrl
+                }
+              }
+              ... on ComponentNavigationDocument {
+                menuItem
+                media {
+                  name
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }

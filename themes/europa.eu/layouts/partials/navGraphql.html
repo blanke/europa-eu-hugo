@@ -1,0 +1,19 @@
+{{ $urlPre := "http://localhost:1338" }}
+{{ $graphql := readFile "navForId.graphql" }}
+{{ $params := dict "_id" 1 }}
+{{ $jsonParams := dict "query" $graphql "variables" $params }}
+{{/* ??? how to call the graphql url ??? */}}
+<div id="nav-border" class="container">
+    <nav id="nav" class="nav justify-content-center">
+        {{ range .Site.Menus.main }}
+        <a class="nav-link" href="{{ .URL }}">
+        {{ if .Pre }}
+        {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
+        {{ $icon }}
+        {{ end }}
+        {{ $text := print .Name | safeHTML }}
+        {{ $text }}
+        </a>
+        {{ end }}
+    </nav>
+</div>

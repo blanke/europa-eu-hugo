@@ -1,0 +1,195 @@
+{"cols":[
+	{"id":"id","label":"id","type":"string"},
+	{"id":"code","label":"code","type":"string"},
+	{"id":"label","label":"label","type":"string"}
+],"rows":[
+	{"c":[
+		{"v":"6387388"},
+		{"v":"AGRI"},
+		{"v":"Agriculture and rural development"}
+	]},
+	{"c":[
+		{"v":"6387389"},
+		{"v":"FINANCE"},
+		{"v":"Banking and financial services"}
+	]},
+	{"c":[
+		{"v":"6387390"},
+		{"v":"BORDERS"},
+		{"v":"Borders and security"}
+	]},
+	{"c":[
+		{"v":"6387391"},
+		{"v":"BUDGET"},
+		{"v":"Budget"}
+	]},
+	{"c":[
+		{"v":"6387392"},
+		{"v":"BUSINESS"},
+		{"v":"Business and industry"}
+	]},
+	{"c":[
+		{"v":"6387393"},
+		{"v":"CLIMA"},
+		{"v":"Climate action"}
+	]},
+	{"c":[
+		{"v":"6387394"},
+		{"v":"COMP"},
+		{"v":"Competition"}
+	]},
+	{"c":[
+		{"v":"6387395"},
+		{"v":"CONSUM"},
+		{"v":"Consumers"}
+	]},
+	{"c":[
+		{"v":"6387396"},
+		{"v":"CULT"},
+		{"v":"Culture and media"}
+	]},
+	{"c":[
+		{"v":"6387397"},
+		{"v":"CUSTOMS"},
+		{"v":"Customs"}
+	]},
+	{"c":[
+		{"v":"6387398"},
+		{"v":"DIGITAL"},
+		{"v":"Digital economy and society"}
+	]},
+	{"c":[
+		{"v":"6387399"},
+		{"v":"ECFIN"},
+		{"v":"Economy, finance and the euro"}
+	]},
+	{"c":[
+		{"v":"6387400"},
+		{"v":"EAC"},
+		{"v":"Education and training"}
+	]},
+	{"c":[
+		{"v":"6387401"},
+		{"v":"EMPL"},
+		{"v":"Employment and social affairs"}
+	]},
+	{"c":[
+		{"v":"6387402"},
+		{"v":"ENER"},
+		{"v":"Energy"}
+	]},
+	{"c":[
+		{"v":"6387403"},
+		{"v":"ENV"},
+		{"v":"Environment"}
+	]},
+	{"c":[
+		{"v":"6387404"},
+		{"v":"ENLARG"},
+		{"v":"EU enlargement"}
+	]},
+	{"c":[
+		{"v":"6387405"},
+		{"v":"NEIGHBOUR"},
+		{"v":"European neighbourhood policy"}
+	]},
+	{"c":[
+		{"v":"6387406"},
+		{"v":"FOOD"},
+		{"v":"Food safety"}
+	]},
+	{"c":[
+		{"v":"6387407"},
+		{"v":"FOREIGN"},
+		{"v":"Foreign affairs and security policy"}
+	]},
+	{"c":[
+		{"v":"6387408"},
+		{"v":"FRAUD"},
+		{"v":"Fraud prevention"}
+	]},
+	{"c":[
+		{"v":"6387409"},
+		{"v":"HOME"},
+		{"v":"Home affairs"}
+	]},
+	{"c":[
+		{"v":"6387410"},
+		{"v":"HUMAN"},
+		{"v":"Humanitarian aid and civil protection"}
+	]},
+	{"c":[
+		{"v":"6387411"},
+		{"v":"INST"},
+		{"v":"Institutional affairs"}
+	]},
+	{"c":[
+		{"v":"6387412"},
+		{"v":"INTDEV"},
+		{"v":"International cooperation and development"}
+	]},
+	{"c":[
+		{"v":"6387413"},
+		{"v":"JUST"},
+		{"v":"Justice and fundamental rights"}
+	]},
+	{"c":[
+		{"v":"6387414"},
+		{"v":"MARE"},
+		{"v":"Maritime affairs and fisheries"}
+	]},
+	{"c":[
+		{"v":"6387415"},
+		{"v":"ASYL"},
+		{"v":"Migration and asylum"}
+	]},
+	{"c":[
+		{"v":"6387416"},
+		{"v":"HEALTH"},
+		{"v":"Public health"}
+	]},
+	{"c":[
+		{"v":"6387417"},
+		{"v":"REGIO"},
+		{"v":"Regional policy"}
+	]},
+	{"c":[
+		{"v":"6387418"},
+		{"v":"RESEARCH"},
+		{"v":"Research and innovation"}
+	]},
+	{"c":[
+		{"v":"6387419"},
+		{"v":"SINGMARK"},
+		{"v":"Single market"}
+	]},
+	{"c":[
+		{"v":"6387420"},
+		{"v":"SPORT"},
+		{"v":"Sport"}
+	]},
+	{"c":[
+		{"v":"6387421"},
+		{"v":"STAT"},
+		{"v":"Statistics"}
+	]},
+	{"c":[
+		{"v":"6387422"},
+		{"v":"TAX"},
+		{"v":"Taxation"}
+	]},
+	{"c":[
+		{"v":"6387423"},
+		{"v":"TRADE"},
+		{"v":"Trade"}
+	]},
+	{"c":[
+		{"v":"6387424"},
+		{"v":"TRANSPORT"},
+		{"v":"Transport"}
+	]},
+	{"c":[
+		{"v":"6387425"},
+		{"v":"YOUTH"},
+		{"v":"Youth"}
+	]}]}

@@ -1,0 +1,51 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ $title := print .Site.Title " | " .Title }}
+    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+    <title>{{ $title }}</title>
+    <style type='text/css'>
+    
+        :root {
+            --first-color-red: 0;
+            --first-color-green: 68;
+            --first-color-blue: 148;
+            --first-color-hue: 212;
+            --first-color-saturation: 100%;
+
+            --second-color-red: 255;
+            --second-color-green: 255;
+            --second-color-blue: 255;
+            --second-color-hue: 0;
+/*
+            --first-color-red: 32;
+            --first-color-green: 37;
+            --first-color-blue: 41;
+            --first-color-hue: 207;
+            --first-color-saturation: 25%;
+
+            --second-color-red: 252;
+            --second-color-green: 208;
+            --second-color-blue: 136;
+            --second-color-hue: 0;
+*/
+            --first-color: rgb(var(--first-color-red), var(--first-color-green), var(--first-color-blue)); /* #202529 */
+            --second-color: rgb(var(--second-color-red), var(--second-color-green), var(--second-color-blue)); /* #fcd088 */
+        }
+    </style>
+    <link rel='stylesheet' id='bootstrap-css' href='/themes/bootstrap/3.3.6/css/bootstrap.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='astrid-body-fonts-css' href='/themes/google-fonts/css/google-fonts.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-css' href='/themes/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='astrid-style-css' href='/themes/europa.eu/preloader.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='astrid-style-css' href='/themes/europa.eu/navigation.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='astrid-style-css' href='/themes/europa.eu/accessibility.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='astrid-style-css' href='/themes/europa.eu/structure.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='astrid-style-css' href='/themes/europa.eu/header.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='astrid-style-css' href='/themes/europa.eu/footer.css' type='text/css' media='all' />
+        <style id='astrid-style-inline-css' type='text/css'>
+        .site-header { position: fixed }
+        body {font-family: 'Open Sans', sans-serif }
+        h1, h2, h3, h4, h5, h6, .fact .fact-number, .fact .fact-name, .site-title {font-family: 'Josefin Sans', sans-serif }
+    </style>
+    <script type='text/javascript' src='/themes/jquery/jquery-3.5.1.min.js' id='jquery-core-js'></script>
+</head>

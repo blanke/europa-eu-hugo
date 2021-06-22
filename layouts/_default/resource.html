@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<div id="tablechart"></div>
+
+<script type="text/javascript">
+// Load google table
+google.charts.load('current', {'packages':['table'],'language':'de'});
+google.charts.setOnLoadCallback(drawTable);
+
+// Draw the chart and set the chart values
+function drawTable() { 
+    var jsonData = $.ajax({url: "data.json", dataType: "json", async: false}).responseText;
+    var data = new google.visualization.DataTable(jsonData);        
+    var view = new google.visualization.DataView(data);
+    var options = { height: '100%', allowHtml: true };
+    var table = new google.visualization.Table(document.getElementById('tablechart'));
+    table.draw(view, options);
+}
+
+</script>
+
+{{ end }}

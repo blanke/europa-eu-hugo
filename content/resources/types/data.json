@@ -1,0 +1,24 @@
+{"cols":[
+	{"id":"code","label":"code","type":"string"},
+	{"id":"label","label":"label","type":"string"}
+],"rows":[
+	{"c":[
+		{"v":"COMMUNIC"},
+		{"v":"Communication"}
+	]},
+	{"c":[
+		{"v":"DEL_ACT"},
+		{"v":"Delegated acts"}
+	]},
+	{"c":[
+		{"v":"IMPL_ACT"},
+		{"v":"Implementing acts"}
+	]},
+	{"c":[
+		{"v":"LEG_PROP"},
+		{"v":"Legislative proposals"}
+	]},
+	{"c":[
+		{"v":"OTHERS"},
+		{"v":"Others"}
+	]}]}

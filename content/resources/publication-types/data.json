@@ -1,0 +1,690 @@
+{"cols":[
+	{"id":"De","label":"De","type":"string"},
+	{"id":"Fr","label":"Fr","type":"string"},
+	{"id":"En","label":"En","type":"string"},
+	{"id":"Key","label":"Key","type":"string"}
+],"rows":[
+	{"c":[
+		{"v":"Austrittsabkommen"},
+		{"v":"Accord de retrait"},
+		{"v":"Withdrawal agreement"},
+		{"v":"withd_agree"}
+	]},
+	{"c":[
+		{"v":"Durchführungsbeschluss"},
+		{"v":"Décision d’exécution"},
+		{"v":"Implementing decision"},
+		{"v":"dec_impl"}
+	]},
+	{"c":[
+		{"v":"Gemeinsame Maßnahme"},
+		{"v":"Action commune"},
+		{"v":"Joint action"},
+		{"v":"joint_action"}
+	]},
+	{"c":[
+		{"v":"Stellungnahme zur Folgenabschätzung"},
+		{"v":"Avis sur l’analyse d’impact"},
+		{"v":"Opinion on impact assessment"},
+		{"v":"opin_impact_assess"}
+	]},
+	{"c":[
+		{"v":"Bewertung"},
+		{"v":"Évaluation"},
+		{"v":"Evaluation"},
+		{"v":"evl"}
+	]},
+	{"c":[
+		{"v":"An Beiträge angehängte Dokumente"},
+		{"v":"Documents joints aux contributions"},
+		{"v":"Documents annexed to contributions"},
+		{"v":"contributions_attachments"}
+	]},
+	{"c":[
+		{"v":"Stellungnahme zur Eignungsprüfung"},
+		{"v":"Avis sur le bilan de qualité"},
+		{"v":"Opinion on fitness check"},
+		{"v":"opin_fc"}
+	]},
+	{"c":[
+		{"v":"Vorläufige Initiativstellungnahme"},
+		{"v":"Avis d’initiative provisoire"},
+		{"v":"Provisional own-initiative opinion"},
+		{"v":"ownini_opin_provis"}
+	]},
+	{"c":[
+		{"v":"Vorschlag für eine Durchführungsrichtlinie"},
+		{"v":"Proposition de directive d’exécution"},
+		{"v":"Proposal for an implementing directive"},
+		{"v":"prop_dir_impl"}
+	]},
+	{"c":[
+		{"v":"Hintergrundinformationen"},
+		{"v":"Document de référence"},
+		{"v":"Background document"},
+		{"v":"background_doc"}
+	]},
+	{"c":[
+		{"v":"Geänderter Vorschlag für eine Verordnung"},
+		{"v":"Proposition modifiée de règlement"},
+		{"v":"Amended proposal for a regulation"},
+		{"v":"amend_prop_reg"}
+	]},
+	{"c":[
+		{"v":"Weißbuch"},
+		{"v":"Livre blanc"},
+		{"v":"White Paper"},
+		{"v":"paper_white"}
+	]},
+	{"c":[
+		{"v":"Vorläufige Sondierungsstellungnahme"},
+		{"v":"Avis exploratoire provisoire"},
+		{"v":"Provisional exploratory opinion"},
+		{"v":"opin_explor_provis"}
+	]},
+	{"c":[
+		{"v":"Beiträge zur Konsultation"},
+		{"v":"Contributions à la consultation"},
+		{"v":"Contributions to the consultation"},
+		{"v":"contrib_consult"}
+	]},
+	{"c":[
+		{"v":"Vorschlag für eine Stellungnahme"},
+		{"v":"Proposition d’avis"},
+		{"v":"Proposal for an opinion"},
+		{"v":"prop_opin"}
+	]},
+	{"c":[
+		{"v":"Entwurf eines delegierten Beschlusses"},
+		{"v":"Projet de décision déléguée"},
+		{"v":"Draft delegated decision"},
+		{"v":"dec_del_draft"}
+	]},
+	{"c":[
+		{"v":"Vorläufige Daten"},
+		{"v":"Données provisoires"},
+		{"v":"Provisional data"},
+		{"v":"datpro"}
+	]},
+	{"c":[
+		{"v":"Zusammenfassung der Eignungsprüfung"},
+		{"v":"Résumé du bilan de qualité"},
+		{"v":"Executive summary of the fitness check"},
+		{"v":"fc_sum_exe"}
+	]},
+	{"c":[
+		{"v":"Gesichtspunkt"},
+		{"v":"Point de vue"},
+		{"v":"Viewpoint"},
+		{"v":"viewpoint"}
+	]},
+	{"c":[
+		{"v":"Vorschlag für einen Beschluss"},
+		{"v":"Proposition de décision"},
+		{"v":"Proposal for a decision"},
+		{"v":"prop_dec"}
+	]},
+	{"c":[
+		{"v":"Stellungnahme"},
+		{"v":"Avis"},
+		{"v":"Opinion"},
+		{"v":"opin"}
+	]},
+	{"c":[
+		{"v":"Mitteilung"},
+		{"v":"Communication"},
+		{"v":"Communication"},
+		{"v":"communic"}
+	]},
+	{"c":[
+		{"v":"Stellungnahme zu nationalem Gesetzentwurf"},
+		{"v":"Avis sur un projet législatif national"},
+		{"v":"Opinion on draft national legislation"},
+		{"v":"opin_draft_nation_legis"}
+	]},
+	{"c":[
+		{"v":"Delegierte Verordnung"},
+		{"v":"Règlement délégué"},
+		{"v":"Delegated regulation"},
+		{"v":"reg_del"}
+	]},
+	{"c":[
+		{"v":"Rechtsakt"},
+		{"v":"Acte"},
+		{"v":"Act"},
+		{"v":"act"}
+	]},
+	{"c":[
+		{"v":"Verordnung"},
+		{"v":"Règlement"},
+		{"v":"Regulation"},
+		{"v":"reg"}
+	]},
+	{"c":[
+		{"v":"Entschließungsantrag"},
+		{"v":"Proposition de résolution"},
+		{"v":"Motion for a resolution"},
+		{"v":"motion_res"}
+	]},
+	{"c":[
+		{"v":"Vorschlag für eine Richtlinie"},
+		{"v":"Proposition de directive"},
+		{"v":"Proposal for a directive"},
+		{"v":"prop_dir"}
+	]},
+	{"c":[
+		{"v":"Vorschlagsentwurf"},
+		{"v":"Projet de proposition"},
+		{"v":"Draft proposal"},
+		{"v":"prop_draft"}
+	]},
+	{"c":[
+		{"v":"Gemeinsame Folgenabschätzung"},
+		{"v":"Analyse d’impact conjointe"},
+		{"v":"Joint impact assessment"},
+		{"v":"joint_impact_assess"}
+	]},
+	{"c":[
+		{"v":"Zusammenfassung der Bewertung"},
+		{"v":"Résumé de l’évaluation"},
+		{"v":"Executive summary of the evaluation"},
+		{"v":"evl_sum_exe"}
+	]},
+	{"c":[
+		{"v":"Delegierte Richtlinie"},
+		{"v":"Directive déléguée"},
+		{"v":"Delegated directive"},
+		{"v":"dir_del"}
+	]},
+	{"c":[
+		{"v":"Vorschlag für eine Verordnung"},
+		{"v":"Proposition de règlement"},
+		{"v":"Proposal for a regulation"},
+		{"v":"prop_reg"}
+	]},
+	{"c":[
+		{"v":"Entwurf einer Verordnung"},
+		{"v":"Projet de règlement"},
+		{"v":"Draft regulation"},
+		{"v":"reg_draft"}
+	]},
+	{"c":[
+		{"v":"Vorschlag für einen Rechtsakt"},
+		{"v":"Proposition d’acte"},
+		{"v":"Proposal for an act"},
+		{"v":"prop_act"}
+	]},
+	{"c":[
+		{"v":"Folgenabschätzung"},
+		{"v":"Analyse d’impact"},
+		{"v":"Impact assessment report"},
+		{"v":"impact_assess"}
+	]},
+	{"c":[
+		{"v":"Entwurf einer delegierten Verordnung"},
+		{"v":"Projet de règlement délégué"},
+		{"v":"Draft delegated regulation"},
+		{"v":"reg_del_draft"}
+	]},
+	{"c":[
+		{"v":"Rückmeldungen der Interessenträger"},
+		{"v":"Commentaires des parties prenantes"},
+		{"v":"Stakeholder feedback"},
+		{"v":"stakeholder_feedback"}
+	]},
+	{"c":[
+		{"v":"Entwurf einer delegierten Richtlinie"},
+		{"v":"Projet de directive déléguée"},
+		{"v":"Draft delegated directive"},
+		{"v":"dir_del_draft"}
+	]},
+	{"c":[
+		{"v":"Bericht"},
+		{"v":"Rapport"},
+		{"v":"Report"},
+		{"v":"report"}
+	]},
+	{"c":[
+		{"v":"Begründung"},
+		{"v":"Exposé des motifs"},
+		{"v":"Explanatory memorandum"},
+		{"v":"expl_memorandum"}
+	]},
+	{"c":[
+		{"v":"Gemeinsamer Bericht"},
+		{"v":"Rapport conjoint"},
+		{"v":"Joint report"},
+		{"v":"joint_report"}
+	]},
+	{"c":[
+		{"v":""},
+		{"v":"Site web archivé"},
+		{"v":"Archived website"},
+		{"v":"website+arch"}
+	]},
+	{"c":[
+		{"v":"Vorschlag für einen Beschluss ohne Adressat"},
+		{"v":"Proposition de décision sans destinataire"},
+		{"v":"Proposal for a decision without addressee"},
+		{"v":"prop_dec_no_addressee"}
+	]},
+	{"c":[
+		{"v":"Öffentliche Konsultation"},
+		{"v":"Consultation publique"},
+		{"v":"Public consultation"},
+		{"v":"opc_launched"}
+	]},
+	{"c":[
+		{"v":"Gemeinsamer Vorschlag für eine Verordnung"},
+		{"v":"Proposition conjointe de règlement"},
+		{"v":"Joint proposal for a regulation"},
+		{"v":"joint_prop_reg"}
+	]},
+	{"c":[
+		{"v":"Zusammenfassender Bericht der öffentlichen Konsultation"},
+		{"v":"Rapport de synthèse de la consultation publique"},
+		{"v":"Synopsis report of the public consultation"},
+		{"v":"synopsis_report_consult"}
+	]},
+	{"c":[
+		{"v":"Fahrpläne"},
+		{"v":"Feuille de route"},
+		{"v":"Roadmap"},
+		{"v":"roadmap"}
+	]},
+	{"c":[
+		{"v":"Vorschlag für eine Durchführungsverordnung"},
+		{"v":"Proposition de règlement d’exécution"},
+		{"v":"Proposal for an implementing regulation"},
+		{"v":"prop_reg_impl"}
+	]},
+	{"c":[
+		{"v":"Entwurf einer Durchführungsverordnung"},
+		{"v":"Projet de règlement d’exécution"},
+		{"v":"Draft implementing regulation"},
+		{"v":"reg_impl_draft"}
+	]},
+	{"c":[
+		{"v":"Gemeinsame Mitteilung"},
+		{"v":"Communication conjointe"},
+		{"v":"Joint communication"},
+		{"v":"joint_communic"}
+	]},
+	{"c":[
+		{"v":"Gemeinsame Eignungsprüfung"},
+		{"v":"Bilan de qualité conjoint"},
+		{"v":"Joint fitness check"},
+		{"v":"joint_fc"}
+	]},
+	{"c":[
+		{"v":"Arbeitsdokument der Dienststellen"},
+		{"v":"Document de travail des services"},
+		{"v":"Staff working document"},
+		{"v":"swd"}
+	]},
+	{"c":[
+		{"v":"Gemeinsame Bewertung"},
+		{"v":"Évaluation conjointe"},
+		{"v":"Joint evaluation"},
+		{"v":"joint_evl"}
+	]},
+	{"c":[
+		{"v":""},
+		{"v":"Sommaire de l’édition spéciale du Journal officiel"},
+		{"v":"Contents of the Special edition of the Official Journal"},
+		{"v":"toc_oj_special"}
+	]},
+	{"c":[
+		{"v":"Angenommene Rechtsakte"},
+		{"v":"Actes adoptés"},
+		{"v":"Adopted acts"},
+		{"v":"acts_adopt"}
+	]},
+	{"c":[
+		{"v":"Antwort auf die Stellungnahme eines nationalen Parlaments"},
+		{"v":"Réponse sur les avis des parlements nationaux"},
+		{"v":"Reply to national Parliaments' opinion"},
+		{"v":"reply_opin_np"}
+	]},
+	{"c":[
+		{"v":""},
+		{"v":"Édition spéciale du Journal officiel"},
+		{"v":"Special edition of the Official Journal"},
+		{"v":"oj_special"}
+	]},
+	{"c":[
+		{"v":"Beiträge"},
+		{"v":"Contributions"},
+		{"v":"Contributions"},
+		{"v":"contributions_metadata"}
+	]},
+	{"c":[
+		{"v":"Entwurf einer Richtlinie"},
+		{"v":"Projet de directive"},
+		{"v":"Draft directive"},
+		{"v":"dir_draft"}
+	]},
+	{"c":[
+		{"v":"Abkommen"},
+		{"v":"Accord"},
+		{"v":"Agreement"},
+		{"v":"agree"}
+	]},
+	{"c":[
+		{"v":"Zusammenfassender Bericht der öffentlichen Konsultation zu gemeinsam vorbereiteten Rechtsakten"},
+		{"v":"Rapport de synthèse conjoint de la consultation publique"},
+		{"v":"Joint synopsis report of the public consultation"},
+		{"v":"joint_synopsis_report_consult"}
+	]},
+	{"c":[
+		{"v":"Anhang"},
+		{"v":"Annexe"},
+		{"v":"Annex"},
+		{"v":"annex"}
+	]},
+	{"c":[
+		{"v":"Gemeinsamer Entwurf"},
+		{"v":"Texte commun"},
+		{"v":"Joint text"},
+		{"v":"joint_text"}
+	]},
+	{"c":[
+		{"v":"Gemeinsame Strategie"},
+		{"v":"Stratégie commune"},
+		{"v":"Common strategy"},
+		{"v":"strategy_common"}
+	]},
+	{"c":[
+		{"v":"Konsultationsstrategie"},
+		{"v":"Stratégie de consultation"},
+		{"v":"Consultation strategy"},
+		{"v":"consult_strategy"}
+	]},
+	{"c":[
+		{"v":"Empfehlung"},
+		{"v":"Recommandation"},
+		{"v":"Recommendation"},
+		{"v":"reco"}
+	]},
+	{"c":[
+		{"v":"Mitteilung zum Standpunkt des Rates"},
+		{"v":"Communication concernant la position du Conseil"},
+		{"v":"Communication concerning the position of the Council"},
+		{"v":"communic_posit"}
+	]},
+	{"c":[
+		{"v":"Empfehlung für eine Empfehlung"},
+		{"v":"Recommandation de recommandation"},
+		{"v":"Recommendation for a recommendation"},
+		{"v":"reco_reco"}
+	]},
+	{"c":[
+		{"v":"Geänderter Vorschlag für eine Richtlinie"},
+		{"v":"Proposition modifiée de directive"},
+		{"v":"Amended proposal for a directive"},
+		{"v":"amend_prop_dir"}
+	]},
+	{"c":[
+		{"v":"An Beiträge angehängte Dokumente"},
+		{"v":"Documents joints aux contributions"},
+		{"v":"Documents annexed to contributions"},
+		{"v":"annex_contrib_consult"}
+	]},
+	{"c":[
+		{"v":"Übereinkommen"},
+		{"v":"Convention"},
+		{"v":"Convention"},
+		{"v":"convention"}
+	]},
+	{"c":[
+		{"v":"Begründete Stellungnahme eines nationalen Parlaments"},
+		{"v":"Avis motivé d’un parlement national"},
+		{"v":"Reasoned opinion of national Parliament"},
+		{"v":"opin_reas_np"}
+	]},
+	{"c":[
+		{"v":"Stellungnahme zu den Abänderungen des Europäischen Parlaments"},
+		{"v":"Avis sur les amendements du Parlement européen"},
+		{"v":"Opinion on the European Parliament's amendments"},
+		{"v":"opin_amend_ep"}
+	]},
+	{"c":[
+		{"v":"Grünbuch"},
+		{"v":"Livre vert"},
+		{"v":"Green Paper"},
+		{"v":"paper_green"}
+	]},
+	{"c":[
+		{"v":"Vorschlag für eine Empfehlung"},
+		{"v":"Proposition de recommandation"},
+		{"v":"Proposal for a recommendation"},
+		{"v":"prop_reco"}
+	]},
+	{"c":[
+		{"v":"Stellungnahme zur Evaluierung"},
+		{"v":"Avis sur l’évaluation"},
+		{"v":"Opinion on evaluation"},
+		{"v":"opin_evl"}
+	]},
+	{"c":[
+		{"v":"Rückmeldungen von Interessenträgern zu gemeinsam vorbereiteten Rechtsakten"},
+		{"v":"Commentaires conjoints des parties prenantes"},
+		{"v":"Joint stakeholder feedback"},
+		{"v":"joint_stakeholder_feedback"}
+	]},
+	{"c":[
+		{"v":"Berichtigung"},
+		{"v":"Rectificatif"},
+		{"v":"Corrigendum"},
+		{"v":"corrigendum"}
+	]},
+	{"c":[
+		{"v":"Gemeinsamer Entschließungsantrag"},
+		{"v":"Proposition de résolution commune"},
+		{"v":"Joint motion for a resolution"},
+		{"v":"joint_motion_res"}
+	]},
+	{"c":[
+		{"v":"Geänderter Vorschlag für einen Beschluss"},
+		{"v":"Proposition modifiée de décision"},
+		{"v":"Amended proposal for a decision"},
+		{"v":"amend_prop_dec"}
+	]},
+	{"c":[
+		{"v":"Richtlinie"},
+		{"v":"Directive"},
+		{"v":"Directive"},
+		{"v":"dir"}
+	]},
+	{"c":[
+		{"v":"Gemeinsamer Vorschlag für einen Beschluss"},
+		{"v":"Proposition conjointe de décision"},
+		{"v":"Joint proposal for a decision"},
+		{"v":"joint_prop_dec"}
+	]},
+	{"c":[
+		{"v":"In Vorbereitung"},
+		{"v":"En préparation"},
+		{"v":"In preparation"},
+		{"v":"init_planned"}
+	]},
+	{"c":[
+		{"v":"Gemeinsamer Standpunkt"},
+		{"v":"Position commune"},
+		{"v":"Common position"},
+		{"v":"compos"}
+	]},
+	{"c":[
+		{"v":"Verabschiedete Initiativstellungnahme"},
+		{"v":"Avis d’initiative adopté"},
+		{"v":"Adopted own-initiative opinion"},
+		{"v":"ownini_opin_adop"}
+	]},
+	{"c":[
+		{"v":"Delegierter Beschluss"},
+		{"v":"Décision déléguée"},
+		{"v":"Delegated decision"},
+		{"v":"dec_del"}
+	]},
+	{"c":[
+		{"v":"Empfehlung für einen Beschluss"},
+		{"v":"Recommandation de décision"},
+		{"v":"Recommendation for a decision"},
+		{"v":"reco_dec"}
+	]},
+	{"c":[
+		{"v":"Entwurf eines Beschlusses"},
+		{"v":"Projet de décision"},
+		{"v":"Draft decision"},
+		{"v":"dec_draft"}
+	]},
+	{"c":[
+		{"v":"Rahmenbeschluss"},
+		{"v":"Décision-cadre"},
+		{"v":"Framework decision"},
+		{"v":"dec_framw"}
+	]},
+	{"c":[
+		{"v":"Abstimmungsergebnis"},
+		{"v":"Résultat du vote"},
+		{"v":"Voting result"},
+		{"v":"voting_res"}
+	]},
+	{"c":[
+		{"v":"Zusammenfassung der Folgenabschätzung"},
+		{"v":"Résumé de l’analyse d’impact"},
+		{"v":"Summary of the impact assessment report"},
+		{"v":"impact_assess_sum"}
+	]},
+	{"c":[
+		{"v":"Vermerk"},
+		{"v":"Note"},
+		{"v":"Note"},
+		{"v":"note"}
+	]},
+	{"c":[
+		{"v":"Durchführungsverordnung"},
+		{"v":"Règlement d’exécution"},
+		{"v":"Implementing regulation"},
+		{"v":"reg_impl"}
+	]},
+	{"c":[
+		{"v":"Zusammenfassung der gemeinsamen Bewertung"},
+		{"v":"Résumé de l’évaluation conjointe"},
+		{"v":"Executive summary of the joint evaluation"},
+		{"v":"joint_evl_sum_exe"}
+	]},
+	{"c":[
+		{"v":"Vorläufige Stellungnahme"},
+		{"v":"Avis provisoire"},
+		{"v":"Provisional opinion"},
+		{"v":"opin_provis"}
+	]},
+	{"c":[
+		{"v":"Zusammenfassung der gemeinsamen Eignungsprüfung"},
+		{"v":"Résumé du bilan de qualité conjoint"},
+		{"v":"Executive summary of the joint fitness check"},
+		{"v":"joint_fc_sum_exe"}
+	]},
+	{"c":[
+		{"v":"Beschluss"},
+		{"v":"Décision"},
+		{"v":"Decision"},
+		{"v":"dec"}
+	]},
+	{"c":[
+		{"v":"Zusammenfassender Bericht"},
+		{"v":"Rapport de synthèse factuel"},
+		{"v":"Factual summary report"},
+		{"v":"fact_sum_report_consult"}
+	]},
+	{"c":[
+		{"v":"Verabschiedete Stellungnahme"},
+		{"v":"Avis adopté"},
+		{"v":"Adopted opinion"},
+		{"v":"opin_adop"}
+	]},
+	{"c":[
+		{"v":"Arbeitsdokument"},
+		{"v":"Document de travail"},
+		{"v":"Working document"},
+		{"v":"work_doc"}
+	]},
+	{"c":[
+		{"v":"Bewertungsfahrplan"},
+		{"v":"Feuille de route de l’évaluation"},
+		{"v":"Evaluation and Fitness Check Roadmap"},
+		{"v":"roadmap_efc"}
+	]},
+	{"c":[
+		{"v":"Zusammenfassung der gemeinsamen Folgenabschätzung"},
+		{"v":"Résumé d’analyse d’impact conjointe"},
+		{"v":"Joint impact assessment summary"},
+		{"v":"joint_impact_assess_sum"}
+	]},
+	{"c":[
+		{"v":"Durchführungsrichtlinie"},
+		{"v":"Directive d’exécution"},
+		{"v":"Implementing directive"},
+		{"v":"dir_impl"}
+	]},
+	{"c":[
+		{"v":"Gemeinsamer Umsetzungsplan"},
+		{"v":"Plan de mise en œuvre conjoint"},
+		{"v":"Joint implementation plan"},
+		{"v":"joint_impl_plan"}
+	]},
+	{"c":[
+		{"v":"Empfehlung für eine Stellungnahme"},
+		{"v":"Recommandation en vue d’un avis"},
+		{"v":"Recommendation for an opinion"},
+		{"v":"reco_opin"}
+	]},
+	{"c":[
+		{"v":"Geänderter Vorschlag"},
+		{"v":"Proposition de modification"},
+		{"v":"Amended proposal"},
+		{"v":"amend_prop"}
+	]},
+	{"c":[
+		{"v":"Umsetzungsplan"},
+		{"v":"Plan de mise en œuvre"},
+		{"v":"Implementation plan"},
+		{"v":"impl_plan"}
+	]},
+	{"c":[
+		{"v":"Folgenabschätzung in der Anfangsphase"},
+		{"v":"Analyse d’impact initiale"},
+		{"v":"Inception impact assessment"},
+		{"v":"impact_assess_incep"}
+	]},
+	{"c":[
+		{"v":"Vorschlag für einen Durchführungsbeschluss"},
+		{"v":"Proposition de décision d’exécution"},
+		{"v":"Proposal for an implementing decision"},
+		{"v":"prop_dec_impl"}
+	]},
+	{"c":[
+		{"v":"Entwurf eines Durchführungsbeschlusses"},
+		{"v":"Projet de décision d’exécution"},
+		{"v":"Draft implementing decision"},
+		{"v":"dec_impl_draft"}
+	]},
+	{"c":[
+		{"v":"Verabschiedete Sondierungsstellungnahme"},
+		{"v":"Avis exploratoire adopté"},
+		{"v":"Adopted exploratory opinion"},
+		{"v":"opin_explor_adop"}
+	]},
+	{"c":[
+		{"v":"Entwurf einer Durchführungsrichtlinie"},
+		{"v":"Projet de directive d’exécution"},
+		{"v":"Draft implementing directive"},
+		{"v":"dir_impl_draft"}
+	]},
+	{"c":[
+		{"v":"Eignungsprüfung"},
+		{"v":"Bilan de qualité"},
+		{"v":"Fitness check"},
+		{"v":"fc"}
+	]}]}

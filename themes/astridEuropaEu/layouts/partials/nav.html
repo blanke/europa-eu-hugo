@@ -1,0 +1,33 @@
+{{ $urlPre := "http://localhost:1338" }}
+{{ $jsonNavigations := getJSON $urlPre "/navigations" }}
+
+<nav id="mainnav" class="main-navigation col-md-8 col-sm-6 col-xs-12" role="navigation">
+    <div class="menu-menu-container">
+        <ul id="primary-menu" class="menu">
+            {{ range $jsonNavigations }}
+                {{ if eq .title "main" }}
+                    {{ range .item }}
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children">
+                            <a href="/{{ .page.friendlyUrl }}" aria-current="page">{{ .menuItem }}</a>
+                            {{ $subTitle := .navigation.title }}
+                            {{ $refPrefix := .page.friendlyUrl }}
+                            {{ if eq .__component "navigation.sub-navigation" }}
+                                <ul class="sub-menu">
+                                    {{ range $jsonNavigations }}
+                                        {{ if eq .title $subTitle }}
+                                            {{ range .item }}
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                                                    <a href="/{{ $refPrefix }}/{{ .page.friendlyUrl }}">{{ .menuItem }}</a>
+                                                </li>
+                                            {{ end }}
+                                        {{ end }}
+                                    {{ end }}
+                                </ul>
+                            {{ end }}
+                        </li>
+                    {{ end }} {{/* {{ range .item }} */}}
+                {{ end }} {{/* if eq .title "main" */}}
+            {{ end }} {{/* range $jsonNavigations */}}
+        </ul>
+    </div>
+</nav>

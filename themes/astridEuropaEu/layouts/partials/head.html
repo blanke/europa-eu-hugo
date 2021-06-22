@@ -1,0 +1,30 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ $title := print .Site.Title " | " .Title }}
+    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+    <title>{{ $title }}</title>
+    <link rel='stylesheet' id='bootstrap-css' href='/themes/bootstrap/3.3.6/css/bootstrap.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='astrid-body-fonts-css' href='/themes/google-fonts/css/google-fonts.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-css' href='/themes/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='astrid-style-css' href='/themes/athemes/astrid/5.7.2/css/style.css' type='text/css' media='all' />
+    <style id='astrid-style-inline-css' type='text/css'>
+        .site-header { position: fixed }
+        body, .widget-area .widget, .widget-area .widget a { color:#656D6D }
+        body {font-family: 'Open Sans', sans-serif }
+        h1, h2, h3, h4, h5, h6, .fact .fact-number, .fact .fact-name, .site-title {font-family: 'Josefin Sans', sans-serif }
+        h1, .site-title { font-size:36px }
+        h2 { font-size:30px }
+        h3 { font-size:24px }
+        h4 { font-size:16px }
+        h5, .site-description, body { font-size:14px }
+        h6 { font-size:12px }
+        .site-header,.site-header.header-scrolled,.site-header.has-header,.site-header.has-video,.site-header.has-single,.site-header.has-shortcode { background-color:rgba(0,68,148,0.9) }
+        .footer-widgets, .site-footer, .footer-info, .header-image:after, .main-navigation ul ul { background-color: #004494 }
+        .site-title a,.site-title a:hover, .main-navigation a:hover, .main-navigation li.focus > a { color: #ffffff }
+        .main-navigation li a::before { right: 0; border-top: 1px solid #ffffff }
+        .main-navigation li a::after { left: 0; border-bottom: 1px solid #ffffff }
+    </style>
+    <script type='text/javascript' src='/themes/jquery/jquery-3.5.1.min.js' id='jquery-core-js'></script>
+    <script type='text/javascript' src='/themes/jquery/jquery-migrate-3.3.2.min.js' id='jquery-migrate-js'></script>
+</head>
